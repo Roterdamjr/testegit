@@ -1,6 +1,0 @@
-<html>
-pagina index
-
-
-
-</html>
